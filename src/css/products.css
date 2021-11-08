@@ -1,0 +1,28 @@
+h3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.login-form {
+    /* width: 100%; */
+    /* max-width: fit-content; */
+    padding: 100px;
+    margin: auto;
+    height: 100;
+    margin-top: 10px;
+ }
+
+ h4 {
+    font-family: "Cairo";
+    color: #221616;
+    font-weight: 700;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 20px;
+    margin-bottom: 25px
+ }
+
+ img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
